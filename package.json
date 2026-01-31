@@ -1,0 +1,26 @@
+{
+  "name": "it23206014_v2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:ui": "playwright test --ui"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malindujayawickrama462/IT23206014_V2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/malindujayawickrama462/IT23206014_V2/issues"
+  },
+  "homepage": "https://github.com/malindujayawickrama462/IT23206014_V2#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.1",
+    "@types/node": "^25.1.0"
+  }
+}
